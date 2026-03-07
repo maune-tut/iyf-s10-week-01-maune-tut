@@ -197,3 +197,7 @@ a:hover {
     color: #ff7aa2;
     transform: scale(1.05);
 }
+/* Example change */
+h1 {
+    color: #ff7aa2; /* new hover color */
+}
