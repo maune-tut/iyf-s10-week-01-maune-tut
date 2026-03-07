@@ -187,3 +187,13 @@ main h2 {
     color: #27ae60; /* Darker green for headings */
     margin-top: 0;
 }
+a {
+    color: #6a8caf;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #ff7aa2;
+    transform: scale(1.05);
+}
